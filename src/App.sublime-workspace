@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cal",
+				"clarifaiFace"
+			],
+			[
+				"clara",
+				"clarifaiFace"
+			],
+			[
+				"parti",
+				"Particles"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"R",
+				"ReactDOM"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"create",
+				"createListElement"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 403.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MSR MM/msr/package-lock.json",
+		"/D/MSR MM/msr/package.json",
+		"/D/Udemy Course/Full Stack Development/nodeCommandTest/server.js",
+		"/D/Udemy Course/Full Stack Development/nodeCommandTest/script2.js",
+		"/D/Udemy Course/Full Stack Development/nodeCommandTest/script.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/Navigation/Navigation.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/registerServiceWorker.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/index.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/index.css",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/App.test.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/App.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/App.css",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/logo.svg",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/Register/Register.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/Rank/Rank.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/FaceRecognition/FaceRecognition.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/Signin/Signin.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/Signin/Signin.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/FaceRecognition/FaceRecognition.css",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/Components/Navigation/Navigation.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/Logo/Logo.css",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/components/Logo/Logo.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/package.json",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/Components/Navigation.js",
+		"/C/Users/sethl/Desktop/facerecognitionbrain/src/Navigation.js",
+		"/C/Users/sethl/Desktop/robofriends/src/index.js",
+		"/C/Users/sethl/Desktop/robofriends/src/App.js",
+		"/C/Users/sethl/Desktop/robofriends/src/containers/App.css",
+		"/C/Users/sethl/Desktop/robofriends/src/components/Card.js",
+		"/C/Users/sethl/Desktop/robofriends/src/components/CardList.js",
+		"/C/Users/sethl/Desktop/robofriends/src/Scroll.js",
+		"/C/Users/sethl/Desktop/robofriends/src/App.css",
+		"/C/Users/sethl/Desktop/robofriends/src/containers/App.js",
+		"/C/Users/sethl/Desktop/robofriends/src/robots.js",
+		"/C/Users/sethl/Desktop/robofriends/public/index.html",
+		"/C/Users/sethl/Desktop/robofriends/src/Card.js",
+		"/C/Users/sethl/Desktop/robofriends/src/SearchBox.js",
+		"/C/Users/sethl/Desktop/robofriends/src/index.css",
+		"/C/Users/sethl/Desktop/robofriends/src/CardList.js",
+		"/C/Users/sethl/Downloads/sega-logo-font/style.css",
+		"/C/Users/sethl/Desktop/robofriends/src/Test Files/App.css",
+		"/C/Users/sethl/Desktop/robofriends/src/Test Files/Hello.js",
+		"/C/Users/sethl/Downloads/robots.js",
+		"/C/Users/sethl/Desktop/robofriends/.gitignore",
+		"/C/Users/sethl/Desktop/robofriends/src/Hello.css",
+		"/C/Users/sethl/Desktop/robofriends/src/Hello.js",
+		"/D/Udemy Course/Full Stack Development/js/exercises/exercise4.js",
+		"/D/Udemy Course/Full Stack Development/js/exercises/exercise5-SOLUTIONS-1.js",
+		"/D/Udemy Course/Full Stack Development/js/exercises/exercise5.js",
+		"/D/Udemy Course/Full Stack Development/js/exercises/exercise6.js",
+		"/C/Users/sethl/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Udemy Course/Full Stack Development/html/index files/backgroundIndex.html",
+		"/D/Udemy Course/Full Stack Development/css/backgroundGenStyle.css",
+		"/D/Udemy Course/Full Stack Development/js/backgroundGen.js",
+		"/C/Users/sethl/Downloads/exercise4-SOLUTIONS.js",
+		"/D/Udemy Course/Full Stack Development/js/exercise4.js",
+		"/C/Users/sethl/Downloads/exercise3 (1).js",
+		"/C/Users/sethl/Downloads/exercise2.js",
+		"/C/Users/sethl/Downloads/style.css",
+		"/D/Udemy Course/Full Stack Development/html/index files/DOMIndex.html",
+		"/D/Udemy Course/Full Stack Development/css/DOM.css",
+		"/D/Udemy Course/Full Stack Development/js/DOM.js",
+		"/C/Users/sethl/Downloads/script.js",
+		"/D/Udemy Course/Full Stack Development/js/script.js",
+		"/D/Udemy Course/Full Stack Development/css/style(1).css",
+		"/D/Udemy Course/Full Stack Development/html/index files/index (1).html",
+		"/D/Udemy Course/Full Stack Development/css/robot.css",
+		"/C/Users/sethl/Downloads/robot.html",
+		"/C/Users/sethl/Downloads/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 433.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
